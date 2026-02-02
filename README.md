@@ -9,4 +9,8 @@ What I learned:
 - How to update values in an object
 - How to run JS using Node.js
 
+// Logic: Day - 2
+// 1. Assume largest and secondLargest
+// 2. Loop through array
+// 3. Update values based on comparison
 
