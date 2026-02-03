@@ -18,7 +18,7 @@
 // }
 // console.log(freq);
 
-let str1 = "mississippi".toLowerCase();
+let str1 = "programming".toLowerCase();
 let obj1 = {};
 
 for(let char of str1){
