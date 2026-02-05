@@ -56,3 +56,4 @@ problem : Find the minimum and maximum values in an array.
 
    
   Problem - 2 
+  Remove duplicates from an array
