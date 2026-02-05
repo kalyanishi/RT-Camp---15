@@ -29,3 +29,14 @@ Logic:
   2. Loop through input array
   3. Push value only if not already present
 
+Day - 3 
+Problem - 2
+
+Problem: Find maximum and minimum number in an array
+    Input: [3, 5, 1, 8, 2]
+    Output: { max: 8, min: 1 }
+
+Logic:
+  1. Assume first element as max and min
+  2. Loop through array
+  3. Compare and update values
