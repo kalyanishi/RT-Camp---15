@@ -13,3 +13,23 @@ for(let num of arr){
     }
 }
 console.log(`{ Min : ${min}, Max : ${max}}`);
+
+// Find the Maximum and Minimum Number in an Array for negative value 
+
+let negArr = [-3, -7, -1];
+let minVal =  negArr[0];
+let maxVal = negArr[0];
+
+for(let i = 1;i<negArr.length;i++){
+
+    if(maxVal < negArr[i] ){
+        maxVal = negArr[i];
+    }
+
+    if(minVal > negArr[i]){
+        minVal = negArr[i];
+    }
+}
+console.log(`Maxvalue = ${maxVal}`);
+console.log(`Minvalue = ${minVal}`);
+

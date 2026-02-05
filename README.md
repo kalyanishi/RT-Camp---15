@@ -20,6 +20,8 @@ Logic:
 
 Day - 3
 
+Problem - 1 
+
 Problem: Remove duplicate values from an array
     Input: [1, 2, 2, 3, 4, 4, 5]
     Output: [1, 2, 3, 4, 5]
@@ -29,7 +31,7 @@ Logic:
   2. Loop through input array
   3. Push value only if not already present
 
-Day - 3 
+
 Problem - 2
 
 Problem: Find maximum and minimum number in an array
@@ -40,3 +42,17 @@ Logic:
   1. Assume first element as max and min
   2. Loop through array
   3. Compare and update values
+
+Day - 4
+
+Problem - 1 
+problem : Find the minimum and maximum values in an array.
+
+  Input
+[7, 7, 7]
+
+   Output
+   Min = 7, Max = 7
+
+   
+  Problem - 2 
